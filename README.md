@@ -6,9 +6,9 @@ Scripts test multiple selenium functions and test automation practices against w
 * Open Source Project orangehm: https://github.com/orangehrm/orangehrm
   <img src="./imgs/orangehrm.svg">
 * Open Source Project nopCommerce:[ https://demo.nopcommerce.com](https://github.com/nopSolutions/nopCommerce)](https://github.com/nopSolutions/nopCommerce)
-* *  <img src="./imgs/nopcommerce.svg">
+  <img src="./imgs/nopcommerce.svg">
 * Demo Website: https://testautomationpractice.blogspot.com
-*  <img src="./imgs/automationpractice.svg">
+ <img src="./imgs/automationpractice.svg">
 
 
 
