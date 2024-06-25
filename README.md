@@ -1,4 +1,4 @@
-# SeleniumProjectBasics
+# Open Source Automated Testing
 Selenium project consisting of multiple scripts with each script exercising test automation practices/methodologies and key selenium webdriver library usage. Proficiency in web testing using Selenium is displayed through meticulous test automation design, robust scripting, and elaborate test case execution. Project encapsulates not only technical competence but a commitment to quality asurance and efficient software design. 
 
 
