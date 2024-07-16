@@ -16,6 +16,10 @@ public class DifferentChromeOptions {
         //run tests in incognito mode
         options.addArguments("--incognito");//run tests in incognito mode
 
+        //gets rid of chrome's password manager popup
+        options.addArguments("--password-store=basic");
+        options.addArguments("--guest");
+
         WebDriver driver= new ChromeDriver(options);
         driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
         driver.get("https://demo.opencart.com/");
