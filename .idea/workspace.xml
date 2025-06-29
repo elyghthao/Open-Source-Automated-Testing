@@ -5,36 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9d2497b9-3a8e-48c9-8f20-bde9224985c2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Open-Source-Automated-Testing.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/BootStrapDropdown.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/BootStrapDropdown.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/landroverPractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/fullpage.png" beforeDir="false" afterPath="$PROJECT_DIR$/screenshots/fullpage.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/onlyWebElement.png" beforeDir="false" afterPath="$PROJECT_DIR$/screenshots/onlyWebElement.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BrokenLinks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BrokenLinks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ClosingSpecificWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ClosingSpecificWindow.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/BrokenLinks.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/BrokenLinks.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DatePickerDemo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DatePickerDemo1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DatePickerDemo2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DatePickerDemo2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DifferentChromeOptions.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DifferentChromeOptions.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/GetMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/GetMethods.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/HandleSSL.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/HandleSSL.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/KeyboardActions.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/KeyboardActions.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/LocatorsDemo2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/LocatorsDemo2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SleepStatements.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SleepStatements.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SliderDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SliderDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/StaticTable.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/StaticTable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Test_ColorBox.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Test_ColorBox.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Test_GoogleSearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Test_GoogleSearch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Test_HiddenDropdown.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Test_HiddenDropdown.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Test_Pagination_DynamicTable.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Test_Pagination_DynamicTable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Test_SelectClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Test_SelectClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Test_StaticTableBlazeDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Test_StaticTableBlazeDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ClosingSpecificWindow.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ClosingSpecificWindow.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -51,26 +41,56 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.AuthenticatedPopup.executor": "Run",
+    "Application.BootStrapDropdown.executor": "Run",
+    "Application.BrokenLinks.executor": "Run",
+    "Application.BrowserNavigation.executor": "Run",
+    "Application.CSSSelectorsDemo.executor": "Run",
+    "Application.CaptureScreenshots.executor": "Run",
     "Application.CheckBox.executor": "Run",
+    "Application.ClosingSpecificWindow.executor": "Run",
+    "Application.SeleniumLocatorsXPathAxes.executor": "Run",
+    "Application.landroverPractice.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/elygh/Local Github/Open-Source-Automated-Testing",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.CheckBox">
-    <configuration name="AuthenticatedPopup" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AuthenticatedPopup" />
+  <component name="RunManager" selected="Application.landroverPractice">
+    <configuration name="BrowserNavigation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BrowserNavigation" />
       <module name="SeleniumTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CheckBox" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CheckBox" />
+    <configuration name="CSSSelectorsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CSSSelectorsDemo" />
+      <module name="SeleniumTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CaptureScreenshots" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CaptureScreenshots" />
+      <module name="SeleniumTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClosingSpecificWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ClosingSpecificWindow" />
+      <module name="SeleniumTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="landroverPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="landroverPractice" />
       <module name="SeleniumTest" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -78,8 +98,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CheckBox" />
-        <item itemvalue="Application.AuthenticatedPopup" />
+        <item itemvalue="Application.landroverPractice" />
+        <item itemvalue="Application.CSSSelectorsDemo" />
+        <item itemvalue="Application.ClosingSpecificWindow" />
+        <item itemvalue="Application.CaptureScreenshots" />
+        <item itemvalue="Application.BrowserNavigation" />
       </list>
     </recent_temporary>
   </component>

@@ -18,11 +18,18 @@ public class ClosingSpecificWindow {
 
         Set<String> windowIDs = driver.getWindowHandles();//stores the window id's into this set
 
+        String base = driver.getWindowHandle();
+        System.out.println(base);
         for(String winID: windowIDs){
             String title = driver.switchTo().window(winID).getTitle();
-            if(title.equals("Human Resources Management Software | OrangeHRM")){
+            System.out.println("Looping here: " + title);
+            if(title.equals("Human Resources Management Software | OrangeHRM HR Software")){
                 driver.close();
+                System.out.println("closed " + title);
             }
         }
+
+        driver.switchTo().window(base);
+        driver.close();
     }
 }

@@ -20,7 +20,7 @@ public class BrokenLinks {
         options.setAcceptInsecureCerts(true);
 
         WebDriver driver = new ChromeDriver(options);
-        driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(3));
+        driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
 
         driver.get("http://www.deadlinkcity.com/");
 
