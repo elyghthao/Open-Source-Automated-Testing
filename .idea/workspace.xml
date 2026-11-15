@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9d2497b9-3a8e-48c9-8f20-bde9224985c2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/landroverPractice.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/fullpage.png" beforeDir="false" afterPath="$PROJECT_DIR$/screenshots/fullpage.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/onlyWebElement.png" beforeDir="false" afterPath="$PROJECT_DIR$/screenshots/onlyWebElement.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BrokenLinks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BrokenLinks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ClosingSpecificWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ClosingSpecificWindow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/BrokenLinks.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/BrokenLinks.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ClosingSpecificWindow.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ClosingSpecificWindow.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,11 +46,11 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/elygh/Local Github/Open-Source-Automated-Testing",
+    "last_opened_file_path": "C:/Users/elygh/Local Github/SeleniumRerun",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.keymap"
+    "settings.editor.selected.configurable": "editor.preferences.webOptions"
   }
 }]]></component>
   <component name="RunManager" selected="Application.landroverPractice">
@@ -99,9 +92,9 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.landroverPractice" />
-        <item itemvalue="Application.CSSSelectorsDemo" />
         <item itemvalue="Application.ClosingSpecificWindow" />
         <item itemvalue="Application.CaptureScreenshots" />
+        <item itemvalue="Application.CSSSelectorsDemo" />
         <item itemvalue="Application.BrowserNavigation" />
       </list>
     </recent_temporary>
